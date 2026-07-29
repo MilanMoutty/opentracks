@@ -1,0 +1,1079 @@
+[
+  {
+    "id": 1,
+    "Title": "RETALIATION",
+    "AudioPath": "https://opsrv.vercel.app/retaliation.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/retaliation.png",
+    "Artist": "fatestchan"
+  },
+  {
+    "id": 2,
+    "Title": "Galla - Miracle Rose",
+    "AudioPath": "https://opsrv.vercel.app/miraclerose.mp3",
+    "AlbumCoverPath": "https://static.zerochan.net/Initial.D.full.1184790.jpg",
+    "Artist": "Galla, いさみんチャンネル"
+  },
+  {
+    "id": 3,
+    "Title": "Precious Heart - SSG",
+    "AudioPath": "https://opsrv.vercel.app/preciousheart.mp3",
+    "AlbumCoverPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Apzv91t3j7f9FqJdrAnzXxAocDgI8E4IuWnpyPSBO7k5q837Ov2GWHxBTrhoLjU_Skp-xFGEyky2yuwNMsA_7Ht2GxjSZVg4O5D_Kp6d91LvVB_eQOn21LbnkGnJsA-5kftYf1D1uatc/w1200-h630-p-k-no-nu/street_fighter_ex3_cover.jpg",
+    "Artist": "Capcom, SSG"
+  },
+  {
+    "id": 4,
+    "Title": "DeLeo - Save Another day for me",
+    "AudioPath": "https://opsrv.vercel.app/saveanotherdayforme.mp3",
+    "AlbumCoverPath": "https://i.discogs.com/fFGJBrZI_jyGAdrprDaThtBt0gjecrn2Tgt9RtHiFME/rs:fit/g:sm/q:90/h:400/w:397/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUw/MjEzLTE1Njg3NjMw/NDMtNDczMC5qcGVn.jpeg",
+    "Artist": "Deleo"
+  },
+  {
+    "id": 5,
+    "Title": "Still I love you (NC)",
+    "Artist": "JPREMIXI",
+    "AudioPath": "https://opsrv.vercel.app/stilliloveyou.mp3",
+    "AlbumCoverPath": "https://i.ibb.co/LhQKLMQC/School-Days-Fans-Book.jpg"
+  },
+  {
+    "id": 6,
+    "Title": "イノセント・ブルー (NC)",
+    "Artist": "JP REMIXI",
+    "AudioPath": "https://opsrv.vercel.app/pureblue.mp3",
+    "AlbumCoverPath": "https://i.ibb.co/LhQKLMQC/School-Days-Fans-Book.jpg"
+  },
+  {
+    "id": 7,
+    "Title": "紅蓮華 EUROBEAT Remix",
+    "AudioPath": "https://opsrv.vercel.app/gurenge.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000587244338-vn5orc-t500x500.jpg",
+    "Artist": "Turbo"
+  },
+  {
+    "id": 8,
+    "Title": "Onegai Muscle Eurobeat Remix",
+    "AudioPath": "https://opsrv.vercel.app/onegaimuscle.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000587937692-ya2zt6-t500x500.jpg",
+    "Artist": "Turbo"
+  },
+  {
+    "id": 9,
+    "Title": "Number Two - 009 sound system",
+    "Artist": "009 sound system",
+    "AudioPath": "https://opsrv.vercel.app/no2.mp3",
+    "AlbumCoverPath": "https://i.discogs.com/vR-_9xEbXnPmtAkbU8rxTue6KJhzThdpWGHz3d5T9gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzA4/NTktMTYzNzUzMTUy/MS0zNzA2LmpwZWc.jpeg"
+  },
+  {
+    "id": 10,
+    "Title": "Shine Down - 009 sound system",
+    "Artist": "009 sound system",
+    "AudioPath": "https://opsrv.vercel.app/shinedown.mp3",
+    "AlbumCoverPath": "https://i.discogs.com/vR-_9xEbXnPmtAkbU8rxTue6KJhzThdpWGHz3d5T9gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzA4/NTktMTYzNzUzMTUy/MS0zNzA2LmpwZWc.jpeg"
+  },
+  {
+    "id": 11,
+    "Title": "Holy Ghost - 009 sound system",
+    "Artist": "009 sound system",
+    "AudioPath": "https://opsrv.vercel.app/holyghost.mp3",
+    "AlbumCoverPath": "https://i.discogs.com/vR-_9xEbXnPmtAkbU8rxTue6KJhzThdpWGHz3d5T9gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzA4/NTktMTYzNzUzMTUy/MS0zNzA2LmpwZWc.jpeg"
+  },
+  {
+    "id": 12,
+    "Title": "Trinity - 009 sound system",
+    "Artist": "009 sound system",
+    "AudioPath": "https://opsrv.vercel.app/trinity.mp3",
+    "AlbumCoverPath": "https://i.discogs.com/vR-_9xEbXnPmtAkbU8rxTue6KJhzThdpWGHz3d5T9gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzA4/NTktMTYzNzUzMTUy/MS0zNzA2LmpwZWc.jpeg"
+  },
+  {
+    "id": 13,
+    "Title": "Turbo - Il Vento D'oro Eurobeat Remix",
+    "AudioPath": "https://opsrv.vercel.app/jojor.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000610578931-oybc3y-t500x500.jpg",
+    "Artist": "Turbo"
+  },
+  {
+    "id": 14,
+    "Title": "Turbo - A Cruel Angels Thesis Eurobeat Remix",
+    "AudioPath": "https://opsrv.vercel.app/eva.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000567230594-q8qfvo-t1080x1080.jpg",
+    "Artist": "Turbo"
+  },
+  {
+    "id": 15,
+    "Title": "pugcat - 立ち上がリーヨ",
+    "AudioPath": "https://opsrv.vercel.app/立ち上がリーヨ.mp3",
+    "AlbumCoverPath": "https://cdn.aniplaylist.com/thumbnails/aE93evFQvpEFc1CeKHTXdgvVrKnPLEoJdizRE2MJ.jpeg",
+    "Artist": "T-Pistonz, pugcat"
+  },
+  {
+    "id": 16,
+    "Title": "KEEP ON MOVIN - BLINKU (MIKU REMIX)",
+    "AudioPath": "https://opsrv.vercel.app/kom.mp3",
+    "AlbumCoverPath": "https://content.bookoff.co.jp/goodsimages/LL/001589/0015890003LL.jpg",
+    "Artist": "m.o.v.e , Blinku"
+  },
+  {
+    "id": 17,
+    "Title": "BLAZIN BEAT - BLINKU (MIKU REMIX)",
+    "AudioPath": "https://opsrv.vercel.app/blazinbeat.mp3",
+    "AlbumCoverPath": "https://content.bookoff.co.jp/goodsimages/LL/001589/0015890003LL.jpg",
+    "Artist": "m.o.v.e , Blinku"
+  },
+  {
+    "id": 18,
+    "Title": "With a spirit - 009 sound system",
+    "Artist": "009 sound system",
+    "AudioPath": "https://opsrv.vercel.app/wtaspirit.mp3",
+    "AlbumCoverPath": "https://i.discogs.com/vR-_9xEbXnPmtAkbU8rxTue6KJhzThdpWGHz3d5T9gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzA4/NTktMTYzNzUzMTUy/MS0zNzA2LmpwZWc.jpeg"
+  },
+  {
+    "id": 19,
+    "Title": "SmokeDeau - Mes pensées le soir (V1)",
+    "AudioPath": "https://opsrv.vercel.app/penseesdeauville.mp3",
+    "AlbumCoverPath": "https://source.boomplaymusic.com/group10/M00/06/29/ffeab3b4a91f46daa89f504b1958261d_320_320.jpg",
+    "Artist": "Smoking Deauville"
+  },
+  {
+    "id": 20,
+    "Title": "Kidous - caramelldansen (NC)",
+    "AudioPath": "https://opsrv.vercel.app/caramelldansen.mp3",
+    "AlbumCoverPath": "https://i.kfs.io/album/global/68318497,0v1/fit/500x500.jpg",
+    "Artist": "Caramella Girls, KidousRemix"
+  },
+  {
+    "id": 21,
+    "Title": "DIVE INTO STREAM - BLINKU (MIKU REMIX)",
+    "AudioPath": "https://opsrv.vercel.app/dintos.mp3",
+    "AlbumCoverPath": "https://content.bookoff.co.jp/goodsimages/LL/001589/0015890003LL.jpg",
+    "Artist": "m.o.v.e , Blinku"
+  },
+  {
+    "id": 22,
+    "Title": "love n Money - BLINKU (MIKU REMIX)",
+    "AudioPath": "https://opsrv.vercel.app/lnm.mp3",
+    "AlbumCoverPath": "https://i.discogs.com/fFGJBrZI_jyGAdrprDaThtBt0gjecrn2Tgt9RtHiFME/rs:fit/g:sm/q:90/h:400/w:397/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUw/MjEzLTE1Njg3NjMw/NDMtNDczMC5qcGVn.jpeg",
+    "Artist": "ZaZa , Blinku"
+  },
+  {
+    "id": 23,
+    "Title": "Get the future - Maiko",
+    "AudioPath": "https://opsrv.vercel.app/getthefuture.mp3",
+    "AlbumCoverPath": "https://i.discogs.com/fFGJBrZI_jyGAdrprDaThtBt0gjecrn2Tgt9RtHiFME/rs:fit/g:sm/q:90/h:400/w:397/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUw/MjEzLTE1Njg3NjMw/NDMtNDczMC5qcGVn.jpeg",
+    "Artist": "Maiko"
+  },
+  {
+    "id": 24,
+    "Title": "savior of the sky - odyssey",
+    "AudioPath": "https://opsrv.vercel.app/sots.mp3",
+    "AlbumCoverPath": "https://i.scdn.co/image/ab67616d0000b273a26d6981fe9eb597edf6f64c",
+    "Artist": "Odyseey"
+  },
+  {
+    "id": 25,
+    "Title": "センヲコエテ - Koshida",
+    "AudioPath": "https://opsrv.vercel.app/swt.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/VOL2.jpg",
+    "Artist": "Koshida"
+  },
+  {
+    "id": 26,
+    "Title": "夜乃風車 - crazy beats",
+    "AudioPath": "https://opsrv.vercel.app/fc.mp3",
+    "AlbumCoverPath": "https://i.scdn.co/image/ab67616d0000b273a26d6981fe9eb597edf6f64c",
+    "Artist": "Crazy beats"
+  },
+  {
+    "id": 27,
+    "Title": "SPEEDY NIGHT - 越田Rute隆人",
+    "AudioPath": "https://opsrv.vercel.app/sn.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/VOL2.jpg",
+    "Artist": "越田Rute隆人"
+  },
+  {
+    "id": 28,
+    "Title": "JJD - Adventure",
+    "AudioPath": "https://opsrv.vercel.app/Adventure.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/3.jpg",
+    "Artist": "JJD"
+  },
+  {
+    "id": 29,
+    "Title": "Jim Yosef - Arrow",
+    "AudioPath": "https://opsrv.vercel.app/Arrow.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/1.jpg",
+    "Artist": "Jim Yosef"
+  },
+  {
+    "id": 30,
+    "Title": "Disfigure - Blank",
+    "AudioPath": "https://opsrv.vercel.app/Blank.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/2.jpg",
+    "Artist": "Disfigure"
+  },
+  {
+    "id": 31,
+    "Title": "Tobu - Candyland",
+    "AudioPath": "https://opsrv.vercel.app/Candyland.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/4.jpeg",
+    "Artist": "Tobu"
+  },
+  {
+    "id": 32,
+    "Title": "Lensko - Cetus",
+    "AudioPath": "https://opsrv.vercel.app/Cetus.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": "Lensko"
+  },
+  {
+    "id": 33,
+    "Title": "Lensko - Circles",
+    "AudioPath": "https://opsrv.vercel.app/Circles%20Lensko.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": "Lensko"
+  },
+  {
+    "id": 34,
+    "Title": "Tobu - Cloud 9",
+    "AudioPath": "https://opsrv.vercel.app/Cloud%209.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/1.jpg",
+    "Artist": "Tobu"
+  },
+  {
+    "id": 35,
+    "Title": "Elektronomia - Energy",
+    "AudioPath": "https://opsrv.vercel.app/Energy.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": "Elektronomia"
+  },
+  {
+    "id": 36,
+    "Title": "Distrion ft Alex - Entropy",
+    "AudioPath": "https://opsrv.vercel.app/Entropy.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": "Distrion, Alex"
+  },
+  {
+    "id": 37,
+    "Title": "Tobu - Good Times",
+    "AudioPath": "https://opsrv.vercel.app/Good%20Times.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/1.jpg",
+    "Artist": "Tobu"
+  },
+  {
+    "id": 38,
+    "Title": "Desmon - Hellcat",
+    "AudioPath": "https://opsrv.vercel.app/Hellcat.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/3.jpg",
+    "Artist": "Desmon"
+  },
+  {
+    "id": 39,
+    "Title": "OMFG - Hello",
+    "AudioPath": "https://opsrv.vercel.app/Hello.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000101331401-iecrgv-t500x500.jpg",
+    "Artist": "OMFG"
+  },
+  {
+    "id": 40,
+    "Title": "JPB - High",
+    "AudioPath": "https://opsrv.vercel.app/High.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/2.jpg",
+    "Artist": "JPB"
+  },
+  {
+    "id": 41,
+    "Title": "Tobu - Higher",
+    "AudioPath": "https://opsrv.vercel.app/Higher%20tobu.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/2.jpg",
+    "Artist": "Tobu"
+  },
+  {
+    "id": 42,
+    "Title": "Tobu - Hope",
+    "AudioPath": "https://opsrv.vercel.app/Hope.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/2.jpg",
+    "Artist": "Tobu"
+  },
+  {
+    "id": 43,
+    "Title": "Tobu - Infectious",
+    "AudioPath": "https://opsrv.vercel.app/Infectious.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/4.jpeg",
+    "Artist": "Tobu"
+  },
+  {
+    "id": 44,
+    "Title": "Turbo - Il Vento D'oro Eurobeat Remix",
+    "AudioPath": "https://opsrv.vercel.app/jojor.mp3",
+    "AlbumCoverPath": null,
+    "Artist": "Turbo"
+  },
+  {
+    "id": 45,
+    "Title": "DEAF KEV - Invincible",
+    "AudioPath": "https://opsrv.vercel.app/Invincible.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/3.jpg",
+    "Artist": "DEAF KEV"
+  },
+  {
+    "id": 46,
+    "Title": "TheFatRat - Jackpot",
+    "AudioPath": "https://opsrv.vercel.app/Jackpot.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/3.jpg",
+    "Artist": "TheFatRat"
+  },
+  {
+    "id": 47,
+    "Title": "Elektronomia - Limitless",
+    "AudioPath": "https://opsrv.vercel.app/Limitless.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": "Elektronomia"
+  },
+  {
+    "id": 48,
+    "Title": "Jim Yusef - Link",
+    "AudioPath": "https://opsrv.vercel.app/Link.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/2.jpg",
+    "Artist": "Jim Yusef"
+  },
+  {
+    "id": 49,
+    "Title": "TheFatRat - Monody",
+    "AudioPath": "https://opsrv.vercel.app/Monody.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/2.jpg",
+    "Artist": "TheFatRat"
+  },
+  {
+    "id": 50,
+    "Title": "Different Heaven - My heart",
+    "AudioPath": "https://opsrv.vercel.app/My%20Heart.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/1.jpg",
+    "Artist": "Different Heaven"
+  },
+  {
+    "id": 51,
+    "Title": "Cartoon ft. Jeja - On & On",
+    "AudioPath": "https://opsrv.vercel.app/On%20&%20On.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": "Cartoon"
+  },
+  {
+    "id": 52,
+    "Title": "RetroVision - Puzzle",
+    "AudioPath": "https://opsrv.vercel.app/Puzzle.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/4.jpeg",
+    "Artist": "RetroVision"
+  },
+  {
+    "id": 53,
+    "Title": "TheFatRat - Time Lapse",
+    "AudioPath": "https://opsrv.vercel.app/Time%20Lapse.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/3.jpg",
+    "Artist": "TheFatRat"
+  },
+  {
+    "id": 54,
+    "Title": "TheFatRat - Windfall",
+    "AudioPath": "https://opsrv.vercel.app/Windfall.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/1.jpg",
+    "Artist": "TheFatRat"
+  },
+  {
+    "id": 55,
+    "Title": "TheFatRat - Xenogenesis",
+    "AudioPath": "https://opsrv.vercel.app/Xenogenesis.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": "TheFatRat"
+  },
+  {
+    "id": 56,
+    "Title": "fate$tchan - Betrayal LV.2",
+    "AudioPath": "https://opsrv.vercel.app/betrayal2.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/VOL2.jpg",
+    "Artist": "fate$tchan"
+  },
+  {
+    "id": 57,
+    "Title": "D Team - Speed Car",
+    "AudioPath": "https://opsrv.vercel.app/speedcar.mp3",
+    "AlbumCoverPath": "https://images.steamusercontent.com/ugc/91602195880297962/30F251D981CE47D9BB590D485C5961F945E16AC2/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+    "Artist": "D TEAM"
+  },
+  {
+    "id": 58,
+    "Title": "Lensko - Let's Go!",
+    "AudioPath": "https://opsrv.vercel.app/Let's%20Go!.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": "Lensko"
+  },
+  {
+    "id": 59,
+    "Title": "Different Heaven - Nekozilla",
+    "AudioPath": "https://opsrv.vercel.app/Nekozilla.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/2.jpg",
+    "Artist": "Different Heaven"
+  },
+  {
+    "id": 60,
+    "Title": "Ahrix - Nova",
+    "AudioPath": "https://opsrv.vercel.app/Nova.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/n.jpg",
+    "Artist": "Ahrix"
+  },
+  {
+    "id": 61,
+    "Title": "LFZ - Popsicle",
+    "AudioPath": "https://opsrv.vercel.app/Popsicle.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": "LFZ"
+  },
+  {
+    "id": 62,
+    "Title": "Elektronomia - Sky High",
+    "AudioPath": "https://opsrv.vercel.app/Sky%20High.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": "Elektronomia"
+  },
+  {
+    "id": 63,
+    "Title": "Tobu - Sun burst",
+    "AudioPath": "https://opsrv.vercel.app/Sunburst.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/t.jpg",
+    "Artist": "Tobu"
+  },
+  {
+    "id": 64,
+    "Title": "Electro light - Symbolism",
+    "AudioPath": "https://opsrv.vercel.app/Symbolism.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/5.jpg",
+    "Artist": null
+  },
+  {
+    "id": 65,
+    "Title": "Unity",
+    "AudioPath": "https://opsrv.vercel.app/Unity.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/ft.jpg",
+    "Artist": "TheFatRat"
+  },
+  {
+    "id": 66,
+    "Title": "Fluxxwave (REMIX)",
+    "AudioPath": "https://opsrv.vercel.app/fluxrm.mp3",
+    "AlbumCoverPath": "https://i.scdn.co/image/ab67616d0000b273aa00c31473fe4542a1ed81a2",
+    "Artist": "clovis reyes, EPROVES REMIX"
+  },
+  {
+    "id": 67,
+    "Title": "WAKEUP (REMIX)",
+    "AudioPath": "https://opsrv.vercel.app/wakeup.mp3",
+    "AlbumCoverPath": "https://i.scdn.co/image/ab67616d0000b273a3a0d9665cc88b29b1d69f8f",
+    "Artist": "MOONDEITY, EPROVES REMIX"
+  },
+  {
+    "id": 68,
+    "Title": "fate$tchan - betrayal LV.2 ( JP REMIX )",
+    "AudioPath": "https://opsrv.vercel.app/betrayal2o.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/VOL2.jpg",
+    "Artist": "fate$tchan"
+  },
+  {
+    "id": 69,
+    "Title": "fate$tchan - betrayal LV.1",
+    "AudioPath": "https://opsrv.vercel.app/betrayal1.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/VOL1.jpg",
+    "Artist": "fate$tchan"
+  },
+  {
+    "id": 70,
+    "Title": "ORQUESTRA MALDITA_BR (EPROVES REMIX)",
+    "AudioPath": "https://opsrv.vercel.app/br.mp3",
+    "AlbumCoverPath": "https://i.scdn.co/image/ab67616d0000b2735443e7ddafe075e963a6bd34",
+    "Artist": "EPROVES REMIX"
+  },
+  {
+    "id": 71,
+    "Title": "Preserved Vampire Remix",
+    "AudioPath": "https://opsrv.vercel.app/pvam.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/VOL2.jpg",
+    "Artist": "Dimention Movie"
+  },
+  {
+    "id": 72,
+    "Title": "No Life Queen - DJ Command Remix",
+    "AudioPath": "https://opsrv.vercel.app/nlq.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/VOL1.jpg",
+    "Artist": "DJ COMMAND"
+  },
+  {
+    "id": 73,
+    "Title": "MaxBrhon - CyberpunkBass",
+    "AudioPath": "https://opsrv.vercel.app/MaxBrhonCyberpunkBass.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/2.jpg",
+    "Artist": "MaxBarthon"
+  },
+  {
+    "id": 74,
+    "Title": "Battle Formula - Sudo Kyoichii",
+    "AudioPath": "https://opsrv.vercel.app/sudo.mp3",
+    "AlbumCoverPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fjVPlx5KHzSi_In-ZukTItxFWCXGI5VPbQ&s",
+    "Artist": "INITIAL D"
+  },
+  {
+    "id": 75,
+    "Title": "Maybe Tonight Remix - Mako&Sayuki",
+    "AudioPath": "https://opsrv.vercel.app/maybetonight.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000123477049-b0o5t1-t500x500.jpg",
+    "Artist": "MAKO & SAYUKI"
+  },
+  {
+    "id": 76,
+    "Title": "Lchavasse - Lunar Abyss",
+    "AudioPath": "https://opsrv.vercel.app/lunarabyss.mp3",
+    "AlbumCoverPath": "https://i.scdn.co/image/ab67616d0000b273f0d6546794cb5d0b5d41588b",
+    "Artist": "Lchavasse"
+  },
+  {
+    "id": 77,
+    "Title": "rgLed - Win7 Error Dubstep Remix",
+    "AudioPath": "https://opsrv.vercel.app/w7er.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000080513631-qri2uk-t500x500.jpg",
+    "Artist": "rgLed"
+  },
+  {
+    "id": 78,
+    "Title": "rgLed - Win8 Error Dubstep Remix",
+    "AudioPath": "https://opsrv.vercel.app/w8er.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000080513631-qri2uk-t500x500.jpg",
+    "Artist": "rgLed"
+  },
+  {
+    "id": 79,
+    "Title": "Crowd Pleasers - SPD remix",
+    "AudioPath": "https://opsrv.vercel.app/vol1.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000080513631-qri2uk-t500x500.jpg",
+    "Artist": "SPD TEAM"
+  },
+  {
+    "id": 80,
+    "Title": "Sugar & Spice - DJ Rexy Remix",
+    "AudioPath": "https://opsrv.vercel.app/sugarspice.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000080513631-qri2uk-t500x500.jpg",
+    "Artist": "SPD TEAM"
+  },
+  {
+    "id": 81,
+    "Title": "Rainbow in the sky - SPD Remix",
+    "AudioPath": "https://opsrv.vercel.app/rainbow.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000080513631-qri2uk-t500x500.jpg",
+    "Artist": "SPD TEAM"
+  },
+  {
+    "id": 82,
+    "Title": "Akina Mountain - SPD Remix",
+    "AudioPath": "https://opsrv.vercel.app/headpac.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000080513631-qri2uk-t500x500.jpg",
+    "Artist": "SPD TEAM"
+  },
+  {
+    "id": 83,
+    "Title": "Crowd Pleasers - Vol 1",
+    "AudioPath": "https://opsrv.vercel.app/vol1.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000080513631-qri2uk-t500x500.jpg",
+    "Artist": "SPD TEAM"
+  },
+  {
+    "id": 84,
+    "Title": "All Around",
+    "Artist": "Lia",
+    "AudioPath": "https://opsrv.vercel.app/allaround.mp3",
+    "AlbumCoverPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fjVPlx5KHzSi_In-ZukTItxFWCXGI5VPbQ&s"
+  },
+  {
+    "id": 85,
+    "Title": "Nutty - Secret Love",
+    "AudioPath": "https://opsrv.vercel.app/secretlove.mp3",
+    "AlbumCoverPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fjVPlx5KHzSi_In-ZukTItxFWCXGI5VPbQ&s",
+    "Artist": "Nutty"
+  },
+  {
+    "id": 86,
+    "Title": "IMPACT BLUE - D_remix",
+    "AudioPath": "https://opsrv.vercel.app/impactblue.mp3",
+    "AlbumCoverPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fjVPlx5KHzSi_In-ZukTItxFWCXGI5VPbQ&s",
+    "Artist": "MAKO&SAYUKI"
+  },
+  {
+    "id": 87,
+    "Title": "Rage Your Dream - Miku VER.",
+    "AudioPath": "https://opsrv.vercel.app/RYD.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000080513631-qri2uk-t500x500.jpg",
+    "Artist": "Hatsune Miku"
+  },
+  {
+    "id": 88,
+    "Title": "Feel the fire - Ace Warrior",
+    "AudioPath": "https://opsrv.vercel.app/feelthefire.mp3",
+    "AlbumCoverPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fjVPlx5KHzSi_In-ZukTItxFWCXGI5VPbQ&s",
+    "Artist": "Ace Warrior"
+  },
+  {
+    "id": 89,
+    "Title": "Eat Me - Desire",
+    "AudioPath": "https://opsrv.vercel.app/desireeatme.mp3",
+    "AlbumCoverPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fjVPlx5KHzSi_In-ZukTItxFWCXGI5VPbQ&s",
+    "Artist": "Desire"
+  },
+  {
+    "id": 90,
+    "Title": "Professional Griefers",
+    "Artist": "deadmau5",
+    "AudioPath": "https://ia600409.us.archive.org/31/items/203339-d-7642f-47-2d-82-4050-9705-9e-07e-72f-9527/203339-d7642f47-2d82-4050-9705-9e07e72f9527.mp3",
+    "AlbumCoverPath": "https://upload.wikimedia.org/wikipedia/en/d/dd/%282012-08-14%29_Professional_Griefers.jpg"
+  },
+  {
+    "id": 91,
+    "Title": "Escalate",
+    "AudioPath": "https://ia902802.us.archive.org/27/items/escalate-1-osanime.com/Escalate1%20%28osanime.com%29.mp3",
+    "AlbumCoverPath": "https://dl8.wapkizfile.info/img/fcee952479b4f1596895ea12bf7cf89f/osanime+wapkizs+com/cover.jpg",
+    "Artist": "IRyS, Hololive"
+  },
+  {
+    "id": 92,
+    "Title": "Space Song",
+    "AudioPath": "https://ia804602.us.archive.org/19/items/y-2mate.com-beach-house-space-song/y2mate.com%20-%20Beach%20House%20%20Space%20Song.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-R3WbcrvgiMze-0-t500x500.jpg",
+    "Artist": "BEACH HOUSE"
+  },
+  {
+    "id": 93,
+    "Title": "Plastic Love (Night Tempo 100% Pure Remastered)",
+    "AudioPath": "https://ia803408.us.archive.org/2/items/soundcloud-652437512/Takeuchi%20Mariya%20-%20Plastic%20Love%20%28Night%20Tempo%20100%25%20Pure%20Remastered%29-652437512.mp3",
+    "AlbumCoverPath": "https://f4.bcbits.com/img/a3485050873_10.jpg",
+    "Artist": "Night Tempo, Takeuchi Mariya"
+  },
+  {
+    "id": 94,
+    "Title": "Bad Weekend",
+    "AudioPath": "https://ia800900.us.archive.org/25/items/allaround_202508/Asphalt%208_%20Airborne%20-%20Bad%20Weekend.mp3",
+    "AlbumCoverPath": null,
+    "Artist": "Krubb Wenkroist"
+  },
+  {
+    "id": 95,
+    "Title": "Rain",
+    "AudioPath": "https://ia800900.us.archive.org/25/items/allaround_202508/Initial%20D%205th%20Stage%20Soundtrack%20%20Rain.mp3",
+    "AlbumCoverPath": null,
+    "Artist": "Roa"
+  },
+  {
+    "id": 96,
+    "Title": "Bubble",
+    "AudioPath": "https://ia800900.us.archive.org/25/items/allaround_202508/Nightcore%20-%20Bubble.mp3",
+    "AlbumCoverPath": null,
+    "Artist": "Raven & Kreyn, Syrex"
+  },
+  {
+    "id": 97,
+    "Title": "You Could be Mine",
+    "AudioPath": "https://ia800900.us.archive.org/25/items/allaround_202508/Dream%20Fighters%20-%20You%20Could%20Be%20Mine.mp3",
+    "AlbumCoverPath": null,
+    "Artist": "Dream Fighters"
+  },
+  {
+    "id": 98,
+    "Title": "Nekozilla",
+    "AudioPath": "https://ia803109.us.archive.org/27/items/generic-nekozilla-lfz-remix-_different-heaven_-6189037-wEqcGyYvm/nekozilla-lfz-remix-_different-heaven_-6189037-wEqcGyYvm-nekozilla-lfz-remix-_different-heaven_-6189037-wEqcGyYvm.mp3",
+    "AlbumCoverPath": null,
+    "Artist": "LFZ Remix"
+  },
+  {
+    "id": 99,
+    "Title": "Windows",
+    "AudioPath": "https://ia801701.us.archive.org/11/items/stilliloveyou/K-391%20-%20Windows.mp3",
+    "AlbumCoverPath": null,
+    "Artist": "K391"
+  },
+  {
+    "id": 100,
+    "Title": "STARVING RAVEN",
+    "AudioPath": "https://ia800906.us.archive.org/29/items/penseesdeauville/%E3%80%90%E6%9D%B1%E6%96%B9Vocal%EF%BC%8FEurobeat%E3%80%91%20STARVING%20RAVEN%20%E3%80%8CSOUND%20HOLIC%E3%80%8D.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/2.jpg",
+    "Artist": "nana takahashi, jp remixi"
+  },
+  {
+    "id": 101,
+    "Title": "NIGHTS OF NIGHTS",
+    "AudioPath": "https://ia601500.us.archive.org/12/items/all-night-of-knights-cool-and-create/01.%20Night%20of%20Knights.mp3",
+    "AlbumCoverPath": "https://dl.marmak.net.pl/images/009%20Sound%20System/009%20Sound%20System.jpg",
+    "Artist": "Flowering Night Remix"
+  },
+  {
+    "id": 102,
+    "Title": "IGNITE THE POWER",
+    "AudioPath": "https://ia800906.us.archive.org/29/items/penseesdeauville/IGNITE%20THE%20POWER.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000587244338-vn5orc-t500x500.jpg",
+    "Artist": "nana takahashi, th remix"
+  },
+  {
+    "id": 103,
+    "Title": "00 HEAVEN",
+    "AudioPath": "https://ia800906.us.archive.org/29/items/penseesdeauville/%E3%80%90%E6%9D%B1%E6%96%B9Vocal%EF%BC%8FEurobeat%E3%80%91%2000%20HEAVEN%20%E3%80%8CSOUND%20HOLIC%E3%80%8D.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000567230594-q8qfvo-t1080x1080.jpg",
+    "Artist": "nana takahashi, th remix"
+  },
+  {
+    "id": 104,
+    "Title": "FIRST STORM",
+    "AudioPath": "https://ia800906.us.archive.org/29/items/penseesdeauville/FIRST%20STORM%20%EF%BD%9C%20%F0%9D%90%BB%F0%9D%91%8E%F0%9D%91%A1%F0%9D%91%A0%F0%9D%91%A2%F0%9D%91%9B%F0%9D%91%92%20%F0%9D%91%80%F0%9D%91%96%F0%9D%91%98%F0%9D%91%A2%20%EF%BD%9C%20No%20Copyright%20%F0%9F%8E%B5.mp3",
+    "AlbumCoverPath": "https://dl.marmak.net.pl/images/009%20Sound%20System/009%20Sound%20System.jpg",
+    "Artist": "Hatsune Miku"
+  },
+  {
+    "id": 105,
+    "Title": "HAZY MOON",
+    "AudioPath": "https://ia600906.us.archive.org/29/items/penseesdeauville/Hazy%20Moon%20-%20Hatsune%20Miku%20%28%20no%20copyright%20music%20%29.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000587244338-vn5orc-t500x500.jpg",
+    "Artist": "Hatsune Miku"
+  },
+  {
+    "id": 106,
+    "Title": "Ievan Polkka (Sped up)",
+    "AudioPath": "https://ia800906.us.archive.org/29/items/penseesdeauville/Ievan%20Polkka%20Song%20-%20Hatsune%20Miku%20%28Copyright%20Free%20Song%29.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-000567230594-q8qfvo-t1080x1080.jpg",
+    "Artist": "Hatsune Miku"
+  },
+  {
+    "id": 107,
+    "Title": "CATATONIC",
+    "AudioPath": "https://ia601701.us.archive.org/11/items/stilliloveyou/CATATONIC%20-%20fatestchan.mp3",
+    "AlbumCoverPath": "https://i.scdn.co/image/ab67616d0000b273aa00c31473fe4542a1ed81a2",
+    "Artist": "fatestchan"
+  },
+  {
+    "id": 108,
+    "Title": "ROCKIN' Hardcore",
+    "AudioPath": "https://ia804506.us.archive.org/1/items/initial-d-5th-stage-soundtrack-rockin-hardcore-reupload_202107/Initial%20D%205th%20Stage%20Soundtrack%20-%20Rockin%27%20Hardcore%20%28REUPLOAD%29.mp3",
+    "AlbumCoverPath": null,
+    "Artist": "Fastway"
+  },
+  {
+    "id": 109,
+    "Title": "PROJECT III Remix",
+    "AudioPath": "https://ia600906.us.archive.org/29/items/penseesdeauville/Initial%20D%205th%20Stage%20Sound%20File%20-%20Project%20D%20III.mp3",
+    "AlbumCoverPath": "https://i.scdn.co/image/ab67616d0000b273f0d6546794cb5d0b5d41588b",
+    "Artist": "ARYHM Remix"
+  },
+  {
+    "id": 110,
+    "Title": "GET NO SATISFIED! (25th S.P. LIVE VER)",
+    "AudioPath": "https://opsrv.vercel.app/JAM%20Project%20%E3%80%8CGet%20No%20Satisfied%20!%E3%80%8D25th%20Anniversary%20Live%20FINAL%20COUNTDOWN%20%5BOfficial%20Live%20Performance.mp3",
+    "Artist": "JAM PROJECT",
+    "AlbumCoverPath": "https://dl8.wapkizfile.info/img/56935d316e570b9f8fffa5ad45451e8e/osanime+wapkizs+com/cover.jpg"
+  },
+  {
+    "id": 111,
+    "Title": "Gloves 2 Ali",
+    "AudioPath": "https://opsrv.vercel.app/gloves2alinormal.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 112,
+    "Title": "AE86 (Intro)",
+    "AudioPath": "https://opsrv.vercel.app/ae86.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 113,
+    "Title": "My Limbo",
+    "AudioPath": "https://opsrv.vercel.app/mylimbo.mp3",
+    "Artist": "RACEBACE",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg"
+  },
+  {
+    "id": 114,
+    "Title": "The Way of a Man",
+    "AudioPath": "https://opsrv.vercel.app//wayofaman.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 115,
+    "Title": "God's hand on a wheel",
+    "AudioPath": "https://opsrv.vercel.app/godshandonthewheel.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 116,
+    "Title": "Lost in Hell",
+    "AudioPath": "https://opsrv.vercel.app/lostinhell.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 117,
+    "Title": "Nevermind",
+    "AudioPath": "https://opsrv.vercel.app//nevermind.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 118,
+    "Title": "Champion!",
+    "AudioPath": "https://opsrv.vercel.app/champion.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 119,
+    "Title": "First date~",
+    "AudioPath": "https://opsrv.vercel.app/firstdate.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 120,
+    "Title": "Lost the Good Things..",
+    "AudioPath": "https://opsrv.vercel.app/lostgoodthings.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 121,
+    "Title": "A Racer's Dream",
+    "AudioPath": "https://opsrv.vercel.app/racerdream.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 122,
+    "Title": "Discovery of Akina Mountain",
+    "AudioPath": "https://opsrv.vercel.app/thediscoveryakinamountain.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 123,
+    "Title": "We Roll!",
+    "AudioPath": "https://opsrv.vercel.app/weroll.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 124,
+    "Title": "Tanning in your sunray",
+    "AudioPath": "https://opsrv.vercel.app/tanninginyoursunray.mp3",
+    "AlbumCoverPath": "https://d3tvwjfge35btc.cloudfront.net/Assets/57/719/L_p1004071957.jpg",
+    "Artist": "RACEBACE"
+  },
+  {
+    "id": 125,
+    "Title": "White Balcony",
+    "AudioPath": "https://opsrv.vercel.app/1%20-%20White%20Balcony.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/album.jpg",
+    "Artist": "ChrisRLillo"
+  },
+  {
+    "id": 126,
+    "Title": "Love & Hate",
+    "AudioPath": "https://opsrv.vercel.app/2%20-%20Love%20%26%20Hate.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/album.jpg",
+    "Artist": "ChrisRLillo"
+  },
+  {
+    "id": 127,
+    "Title": "Behind the line",
+    "AudioPath": "https://opsrv.vercel.app/3%20-%20Behind%20The%20Line.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/album.jpg",
+    "Artist": "ChrisRLillo"
+  },
+  {
+    "id": 128,
+    "Title": "Ghostly Touch",
+    "AudioPath": "https://opsrv.vercel.app/4%20-%20Ghostly%20Touch.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/album.jpg",
+    "Artist": "ChrisRLillo"
+  },
+  {
+    "id": 129,
+    "Title": "Decenso al Fuego",
+    "AudioPath": "https://opsrv.vercel.app/5%20-%20Decenso%20al%20Fuego.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/album.jpg",
+    "Artist": "ChrisRLillo"
+  },
+  {
+    "id": 130,
+    "Title": "Caos Y Miedo",
+    "AudioPath": "https://opsrv.vercel.app/6%20-%20Caos%20Y%20Miedo.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/album.jpg",
+    "Artist": "ChrisRLillo"
+  },
+  {
+    "id": 131,
+    "Title": "T2K",
+    "AudioPath": "https://opsrv.vercel.app//7%20-%20T2k.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/album.jpg",
+    "Artist": "ChrisRLillo"
+  },
+  {
+    "id": 132,
+    "Title": "Por Una Noche Más",
+    "AudioPath": "https://opsrv.vercel.app/8%20-%20Por%20Una%20Noche%20M%C3%A1s.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/album.jpg",
+    "Artist": "ChrisRLillo"
+  },
+  {
+    "id": 133,
+    "Title": "Don't be scared",
+    "AudioPath": "https://opsrv.vercel.app/9%20-%20Don%27t%20Be%20Scared.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/album.jpg",
+    "Artist": "ChrisRLillo"
+  },
+  {
+    "id": 134,
+    "Title": "Amor Fantasmal",
+    "AudioPath": "https://opsrv.vercel.app/10%20-%20Amor%20Fantasmal.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/album.jpg",
+    "Artist": "ChrisRLillo"
+  },
+  {
+    "id": 135,
+    "Title": "午夜白卡談 - 和平&健康",
+    "AudioPath": "https://opsrv.vercel.app/narrowpdct.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/bakatalk.png",
+    "Artist": "午夜白卡談"
+  },
+  {
+    "id": 136,
+    "Title": "ChockingNetDude - Tutorial",
+    "AudioPath": "https://opsrv.vercel.app/tutu.mp3",
+    "Artist": "ChockingNetDude"
+  },
+  {
+    "id": 137,
+    "Title": "1 hr nonstop - Super Lofi",
+    "AudioPath": "https://opsrv.vercel.app/lofi.mp3",
+    "AlbumCoverPath": null,
+    "Artist": null
+  },
+  {
+    "id": 138,
+    "Title": "1 hr nonstop - Stream Cafe",
+    "AudioPath": "https://opsrv.vercel.app/lofi1.mp3",
+    "AlbumCoverPath": null,
+    "Artist": null
+  },
+  {
+    "id": 139,
+    "Title": "30 mins nonstop - Count Lofi",
+    "AudioPath": "https://opsrv.vercel.app/lofi2.mp3",
+    "AlbumCoverPath": null,
+    "Artist": null
+  },
+  {
+    "id": 140,
+    "Title": "30 mins nonstop - SOUL LOFI",
+    "AudioPath": "https://opsrv.vercel.app/lofi3.mp3",
+    "AlbumCoverPath": null,
+    "Artist": null
+  },
+  {
+    "id": 141,
+    "Title": "Land of future - Demoner latinus",
+    "AudioPath": "https://opsrv.vercel.app/landofuture.mp3",
+    "AlbumCoverPath": null,
+    "Artist": null
+  },
+  {
+    "id": 142,
+    "Title": "Feel it - SPD Remix",
+    "AudioPath": "https://opsrv.vercel.app/feelit.mp3",
+    "AlbumCoverPath": null,
+    "Artist": null
+  },
+  {
+    "id": 143,
+    "Title": "Montagem Xonoda",
+    "Artist": "DJ Samir, DJ JAVI26",
+    "AudioPath": "https://otsarchive1.vercel.app/xonoda.mp3",
+    "AlbumCoverPath": "https://resources.tidal.com/images/5187b614/1c44/4694/9ab1/d675a3c41114/1280x1280.jpg"
+  },
+  {
+    "id": 144,
+    "Title": "Ana (CLANNAD)",
+    "Artist": "Lia, Visual Keys",
+    "AudioPath": "https://otsarchive1.vercel.app/ana.mp3",
+    "AlbumCoverPath": "https://dn721908.ca.archive.org/0/items/mbid-5ae1dd91-d42c-425b-861b-63a6fe601226/mbid-5ae1dd91-d42c-425b-861b-63a6fe601226-26498546912.jpg"
+  },
+  {
+    "id": 145,
+    "Title": "Metalingus (Original Mix)",
+    "Artist": "AlterBridge",
+    "AudioPath": "https://otsarchive1.vercel.app/metalingus.mp3",
+    "AlbumCoverPath": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/AlterBridgeLiveAtTheO2.jpg/250px-AlterBridgeLiveAtTheO2.jpg"
+  },
+  {
+    "id": 146,
+    "Title": "School Memories (Tribute to My School Life)",
+    "Artist": "fate$tchan",
+    "AudioPath": "https://otsarchive1.vercel.app/rap.mp3",
+    "AlbumCoverPath": "https://i.ibb.co/vCHXFR2c/Untitled.png"
+  },
+  {
+    "id": 147,
+    "Title": "Windows",
+    "Artist": "K391",
+    "AudioPath": "https://otsarchive1.vercel.app/windows.mp3",
+    "AlbumCoverPath": "https://static1.squarespace.com/static/619a54aeb2c109335ba8af34/t/622f58ccaece84393400ec49/1647270094020/nightmare-screen-background-wide.jpg"
+  },
+  {
+    "id": 148,
+    "Title": "yum yum",
+    "Artist": "LXNGVX",
+    "AudioPath": "https://otsarchive1.vercel.app/yumyum.mp3",
+    "AlbumCoverPath": "https://i.ibb.co/gZc93fzg/ab67616d0000b27368ccd79879821c333d7afe58.jpg"
+  },
+  {
+    "id": 149,
+    "Title": "yummi",
+    "Artist": "LXNGVX",
+    "AudioPath": "https://otsarchive1.vercel.app/yummi.mp3",
+    "AlbumCoverPath": "https://i.ibb.co/4RvYF39C/ab67616d0000b27378b317552083120407fc5d99.jpg"
+  },
+  {
+    "id": 150,
+    "Title": "Stardust (Nightcore)",
+    "Artist": "NCS, Syrex",
+    "AudioPath": "https://otsarchive1.vercel.app/stardust.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/2.jpg"
+  },
+  {
+    "id": 151,
+    "Title": "Betrayal LV.2 (Blinku Remix)",
+    "Artist": "fate$tchan , Blinku",
+    "AudioPath": "https://otsarchive1.vercel.app/b2bk.mp3",
+    "AlbumCoverPath": "https://opsrv.vercel.app/VOL2.jpg"
+  },
+  {
+    "id": 152,
+    "Title": "nekozilla (LFZ REMIX)",
+    "Artist": "NCS, LFZ",
+    "AudioPath": "https://otsarchive1.vercel.app/nekolfz.mp3",
+    "AlbumCoverPath": "https://open-tracks.vercel.app/3.jpg"
+  },
+  {
+    "id": 153,
+    "Title": "Shadow dance",
+    "Artist": "SHADXWBXRN",
+    "AudioPath": "https://otsarchive1.vercel.app/shadowdance.mp3",
+    "AlbumCoverPath": "https://i1.sndcdn.com/artworks-mhqp4rnoJIcCnVXH-kydctg-t500x500.jpg"
+  },
+  {
+    "id": 154,
+    "Title": "Rain (Initial D)",
+    "Artist": "Lia",
+    "AudioPath": "https://otsarchive1.vercel.app/rain.mp3",
+    "AlbumCoverPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fjVPlx5KHzSi_In-ZukTItxFWCXGI5VPbQ&s"
+  }
+]
