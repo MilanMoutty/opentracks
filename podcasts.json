@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "Title": "Podcasts Coming Soon...",
-    "AudioPath": "",
-    "AlbumCoverPath": "",
-    "Artist": "w_8.1"
+    "Title": "Podcasts Coming Soon",
+    "AudioPath": "https://opentracks.vercel.app/",
+    "AlbumCoverPath": "https://opentracks.vercel.app/",
+    "Artist": "No One"
   }
 ]
